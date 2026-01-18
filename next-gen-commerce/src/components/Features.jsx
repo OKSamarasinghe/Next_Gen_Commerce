@@ -49,7 +49,7 @@ const Features = () => {
       image: "👩‍🎓"
     },
     {
-      name: "Dasun Silva",
+      name: "Kaveen Samarasinghe",
       grade: "Grade 13 - A/L Business Studies",
       feedback: "Best teacher I've ever had! Her individual attention helped me understand complex business concepts. Highly recommend for A/L students!",
       rating: 5,
@@ -63,7 +63,7 @@ const Features = () => {
       image: "👩‍🎓"
     },
     {
-      name: "Tharindu Jayasinghe",
+      name: "Tharindu Silva",
       grade: "Grade 12 - A/L Business Studies",
       feedback: "Thanks to Miss Dinunima, I now understand Business Studies better than ever. Her teaching is very professional and she's always available to clarify doubts.",
       rating: 5,
